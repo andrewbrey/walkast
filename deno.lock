@@ -1,0 +1,19 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:type-fest": "npm:type-fest@4.10.2",
+      "npm:type-fest@4.10.2": "npm:type-fest@4.10.2"
+    },
+    "npm": {
+      "type-fest@4.10.2": {
+        "integrity": "sha512-anpAG63wSpdEbLwOqH8L84urkL6PiVIov3EMmgIhhThevh9aiMQov+6Btx0wldNcvm4wV+e2/Rt1QdDwKHFbHw==",
+        "dependencies": {}
+      }
+    }
+  },
+  "redirects": {
+    "https://deno.land/std/assert/mod.ts": "https://deno.land/std@0.216.0/assert/mod.ts"
+  },
+  "remote": {}
+}

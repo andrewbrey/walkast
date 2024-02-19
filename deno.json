@@ -1,0 +1,9 @@
+{
+	"name": "@andrewbrey/walkast",
+	"version": "0.1.0",
+	"exports": "mod.ts",
+	"fmt": { "useTabs": true, "lineWidth": 100 },
+	"tasks": {
+		"dev": "deno run --watch main.ts"
+	}
+}
